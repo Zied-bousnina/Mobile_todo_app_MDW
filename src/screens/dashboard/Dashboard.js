@@ -526,7 +526,7 @@ const RenderItem = ({ item }) => {
       marginLeft: 2, // Adjust this value based on your spacing preference
     }}
   >
-    {"zied bounina"}
+    {"zied bousnina"}
   </Text>
 
 </View>
